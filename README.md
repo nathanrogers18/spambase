@@ -1,4 +1,4 @@
-# # Spambase
+# Spambase
 
 This project utilizes UCI Machine Learning's Spambase dataset:
 https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.DOCUMENTATION
